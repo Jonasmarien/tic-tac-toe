@@ -1,0 +1,14 @@
+C:\Users\JonasM\Documents\Info Support\TicTacToe\InfoSupport.ProgrammingWithC#.TicTacToe\ConsoleApp1\bin\Debug\net8.0\TicTacToe.exe
+C:\Users\JonasM\Documents\Info Support\TicTacToe\InfoSupport.ProgrammingWithC#.TicTacToe\ConsoleApp1\bin\Debug\net8.0\TicTacToe.deps.json
+C:\Users\JonasM\Documents\Info Support\TicTacToe\InfoSupport.ProgrammingWithC#.TicTacToe\ConsoleApp1\bin\Debug\net8.0\TicTacToe.runtimeconfig.json
+C:\Users\JonasM\Documents\Info Support\TicTacToe\InfoSupport.ProgrammingWithC#.TicTacToe\ConsoleApp1\bin\Debug\net8.0\TicTacToe.dll
+C:\Users\JonasM\Documents\Info Support\TicTacToe\InfoSupport.ProgrammingWithC#.TicTacToe\ConsoleApp1\bin\Debug\net8.0\TicTacToe.pdb
+C:\Users\JonasM\Documents\Info Support\TicTacToe\InfoSupport.ProgrammingWithC#.TicTacToe\ConsoleApp1\obj\Debug\net8.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JonasM\Documents\Info Support\TicTacToe\InfoSupport.ProgrammingWithC#.TicTacToe\ConsoleApp1\obj\Debug\net8.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\JonasM\Documents\Info Support\TicTacToe\InfoSupport.ProgrammingWithC#.TicTacToe\ConsoleApp1\obj\Debug\net8.0\TicTacToe.AssemblyInfo.cs
+C:\Users\JonasM\Documents\Info Support\TicTacToe\InfoSupport.ProgrammingWithC#.TicTacToe\ConsoleApp1\obj\Debug\net8.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\JonasM\Documents\Info Support\TicTacToe\InfoSupport.ProgrammingWithC#.TicTacToe\ConsoleApp1\obj\Debug\net8.0\TicTacToe.dll
+C:\Users\JonasM\Documents\Info Support\TicTacToe\InfoSupport.ProgrammingWithC#.TicTacToe\ConsoleApp1\obj\Debug\net8.0\refint\TicTacToe.dll
+C:\Users\JonasM\Documents\Info Support\TicTacToe\InfoSupport.ProgrammingWithC#.TicTacToe\ConsoleApp1\obj\Debug\net8.0\TicTacToe.pdb
+C:\Users\JonasM\Documents\Info Support\TicTacToe\InfoSupport.ProgrammingWithC#.TicTacToe\ConsoleApp1\obj\Debug\net8.0\TicTacToe.genruntimeconfig.cache
+C:\Users\JonasM\Documents\Info Support\TicTacToe\InfoSupport.ProgrammingWithC#.TicTacToe\ConsoleApp1\obj\Debug\net8.0\ref\TicTacToe.dll
